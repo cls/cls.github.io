@@ -1,0 +1,3 @@
+[submodule "hypergeom"]
+	path = hypergeom
+	url = https://github.com/cls/hypergeom.git
